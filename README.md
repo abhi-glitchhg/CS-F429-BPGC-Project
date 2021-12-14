@@ -19,3 +19,4 @@ Part 2: Intelligent code completion is a context-aware code completion feature i
 up the process of coding applications by reducing typos and other common mistakes.
 
 
+Feedback From Instructor -  We should have compared our model with some other Neural Networks.
