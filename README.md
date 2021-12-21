@@ -1,4 +1,4 @@
-CS F429 Natural Language Processing
+CS F429 Natural Language Processing- Introductory Natural Language Processing Course
 
 
 Course Web Page - https://bpgc-csf429.github.io/
@@ -19,4 +19,4 @@ Part 2: Intelligent code completion is a context-aware code completion feature i
 up the process of coding applications by reducing typos and other common mistakes.
 
 
-Feedback From Instructor -  We should have compared our model with some other Neural Networks.
+Feedback From Instructor -  We should have compared our model with some other Neural Network based model.
